@@ -26,21 +26,19 @@ Người thuê: Tiết kiệm thời gian tìm kiếm phòng trọ phù hợp, t
 Chủ nhà trọ: Tăng khả năng tiếp cận khách thuê, quản lý bài đăng hiệu quả.
 Quản trị viên: Tự động hóa quy trình duyệt bài, thanh toán và báo cáo, giảm sai sót.
 
-Cấu trúc dự án
-ba-house-renting-system/
-├── README.md               <- Mô tả tổng quan dự án
-├── 01_Project_Overview/
-│   └── ProjectIntro    <- Mục tiêu, mô hình nghiệp vụ tổng quát
-├── 02_Requirement/
-│   ├── BRD            <- Business Requirement Document
-│   ├── SRS        <- Software Requirement Spec.
-│   └── UserStories.xlsx    <- Các chức năng và nghiệp vụ
-├── 03_Design/
-│   ├── UseCaseDiagram
-│   ├── ActivityDiagram
-|   ├── SequenceDiagram
-│   ├── Wireframes
-│   
-├── 04_Development_Support/
-    ├── API_List.xlsx       <- Tài liệu mô tả API
-    └── TestCase.xlsx       <- Test case bạn hỗ trợ viết/gợi ý
+Cấu trúc dự án: ba-house-renting-system
+README.md: Mô tả tổng quan và hướng dẫn thiết lập dự án.
+01_Project_Overview/
+ProjectIntro: Mục tiêu và mô hình nghiệp vụ tổng quan.
+02_Requirement/
+BRD: Tài liệu yêu cầu nghiệp vụ.
+SRS: Tài liệu đặc tả phần mềm.
+UserStories.xlsx: Danh sách chức năng và yêu cầu nghiệp vụ.
+03_Design/
+UseCaseDiagram: Sơ đồ Use Case.
+ActivityDiagram: Sơ đồ hoạt động.
+SequenceDiagram: Sơ đồ tuần tự.
+Wireframes: Bản thiết kế giao diện người dùng.
+04_Development_Support/
+API_List.xlsx: Tài liệu mô tả API.
+TestCase.xlsx: Danh sách test case kiểm thử API.
